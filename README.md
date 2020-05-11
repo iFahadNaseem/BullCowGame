@@ -6,4 +6,5 @@ C++ Coding + Help Behind BullCowGame
 # Bugs / Issues 
 - As a BetaVersion ,there may be some bugs or optimization errors 
 - If found notify the @ https://github.com/iFahadNaseem/BullCowGame- Or @ fahadi.naseem1998@gmail.com
+# Update / Modify
 - Also feel free to pull some requests to update and modify the game to the best state. 
